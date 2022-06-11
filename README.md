@@ -1,4 +1,8 @@
-# Simple JavaScript Digital Clock.
+<div align="center">
+
+<h1>Simple JavaScript Digital Clock.</h1>
+
+<div>
 
 <div align="center">
 
