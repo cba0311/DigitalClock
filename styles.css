@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 64px;
+    font-weight: 900;
+    font-family: Orbitron, 'Courier New', Courier, monospace;
+    color: #17feb9cf;
+    background: #0c0c0c;
+}
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 900px ) {
+    * {
+        font-size: 52px;
+
+    }    
+}
+
+@media screen and (max-width: 600px) {
+    * {
+        font-size: 32px;
+
+    }   
+}
