@@ -1,4 +1,6 @@
 <div align="center">
+	
+  <h1>Simple JavaScript Digital Clock (Date & Time)</h1>
 
   ![](https://github.com/cba0311/DigitalClock/blob/master/assets/banner.png#gh-light-mode-only)
   ![](https://github.com/cba0311/DigitalClock/blob/master/assets/banner-dark.png#gh-dark-mode-only)
@@ -11,7 +13,6 @@
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/cba0311/DigitalClock?style=flat-square)
 </div>
 <div align="center">
-  <h1>Simple JavaScript Digital Clock (Date & Time)</h1>
-  
+
   ![](https://github.com/cba0311/DigitalClock/blob/master/assets/DigitalClock.png)
 </div>
